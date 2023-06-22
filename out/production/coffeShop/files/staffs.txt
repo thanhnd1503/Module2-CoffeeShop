@@ -1,0 +1,2 @@
+2,cong,4,staffPartTime,960000
+3,son,2,staffFullTime,1200000
